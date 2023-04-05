@@ -6,5 +6,3 @@ Clone the repository with git clone <url>. Then cd into the created folder pepit
 cd pepitos
 firefox index.js
 ```
-### Watching the website online
-Alternatively, it is hosted in github pages: https://lucianomel.github.io/pepitos/
